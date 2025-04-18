@@ -1,0 +1,289 @@
+country,year,gdp
+Brazil,2000,6817.78
+Canada,2000,37906.86
+China,2000,2193.9
+France,2000,33255.14
+Germany,2000,35087.09
+India,2000,756.7
+Italy,2000,32609.67
+Japan,2000,31430.63
+"Korea, Rep.",2000,16995.56
+Russian Federation,2000,5323.67
+United Kingdom,2000,38921.9
+United States,2000,48616.25
+Brazil,2001,6823.03
+Canada,2001,38200.46
+China,2001,2359.57
+France,2001,33640.67
+Germany,2001,35601.36
+India,2001,778.51
+Italy,2001,33245.28
+Japan,2001,31476.05
+"Korea, Rep.",2001,17684.05
+Russian Federation,2001,5618.96
+United Kingdom,2001,39769.87
+United States,2001,48597.42
+Brazil,2002,6944.62
+Canada,2002,38921.67
+China,2002,2557.89
+France,2002,33753.58
+Germany,2002,35460.41
+India,2002,793.62
+Italy,2002,33285.41
+Japan,2002,31416.12
+"Korea, Rep.",2002,18940.38
+Russian Federation,2002,5910.17
+United Kingdom,2002,40312.98
+United States,2002,48967.37
+Brazil,2003,6941.44
+Canada,2003,39270.02
+China,2003,2797.18
+France,2003,33840.62
+Germany,2003,35252.97
+India,2003,841.28
+Italy,2003,33159.84
+Japan,2003,31830.22
+"Korea, Rep.",2003,19435.49
+Russian Federation,2003,6370.45
+United Kingdom,2003,41390.61
+United States,2003,49905.52
+Brazil,2004,7258.78
+Canada,2004,40108.76
+China,2004,3061.83
+France,2004,34557.15
+Germany,2004,35670.49
+India,2004,892.6
+Italy,2004,33431.56
+Japan,2004,32515.12
+"Korea, Rep.",2004,20364.76
+Russian Federation,2004,6856.68
+United Kingdom,2004,42167.36
+United States,2004,51348.35
+Brazil,2005,7409.57
+Canada,2005,41006.22
+China,2005,3390.72
+France,2005,34946.04
+Germany,2005,36006.86
+India,2005,947.73
+Italy,2005,33521.32
+Japan,2005,33098.55
+"Korea, Rep.",2005,21197.2
+Russian Federation,2005,7323.39
+United Kingdom,2005,43023.23
+United States,2005,52649.57
+Brazil,2006,7622.04
+Canada,2006,41663.51
+China,2006,3800.77
+France,2006,35645.42
+Germany,2006,37437.39
+India,2006,1008.23
+Italy,2006,34022.12
+Japan,2006,33531.52
+"Korea, Rep.",2006,22196.21
+Russian Federation,2006,7949.9
+United Kingdom,2006,43724.9
+United States,2006,53596.32
+Brazil,2007,8003.25
+Canada,2007,42106.87
+China,2007,4319.03
+France,2007,36322.17
+Germany,2007,38570.91
+India,2007,1069.25
+Italy,2007,34345.76
+Japan,2007,33990.04
+"Korea, Rep.",2007,23365.14
+Russian Federation,2007,8640.41
+United Kingdom,2007,44524.57
+United States,2007,54152.83
+Brazil,2008,8330.76
+Canada,2008,42067.57
+China,2008,4711.64
+France,2008,36257.37
+Germany,2008,38996.14
+India,2008,1086.51
+Italy,2008,33769.9
+Japan,2008,33557.65
+"Korea, Rep.",2008,23887.06
+Russian Federation,2008,9093.7
+United Kingdom,2008,44065.62
+United States,2008,53703.96
+Brazil,2009,8246.1
+Canada,2009,40376.42
+China,2009,5128.9
+France,2009,35052.85
+Germany,2009,36927.19
+India,2009,1155.1
+Italy,2009,31832.99
+Japan,2009,31651.08
+"Korea, Rep.",2009,23952.81
+Russian Federation,2009,8381.87
+United Kingdom,2009,41712.83
+United States,2009,51863.62
+Brazil,2010,8792.63
+Canada,2010,41164.34
+China,2010,5647.07
+France,2010,35578.2
+Germany,2010,38517.44
+India,2010,1235.16
+Italy,2010,32220.49
+Japan,2010,32942.2
+"Korea, Rep.",2010,25455.62
+Russian Federation,2010,8755.12
+United Kingdom,2010,42311.43
+United States,2010,52821.4
+Brazil,2011,9067.99
+Canada,2011,42043.64
+China,2011,6152.7
+France,2011,36269.96
+Germany,2011,40712.66
+India,2011,1281.61
+Italy,2011,32388.82
+Japan,2011,33011.13
+"Korea, Rep.",2011,26191.64
+Russian Federation,2011,9120.82
+United Kingdom,2011,42459.96
+United States,2011,53259.26
+Brazil,2012,9167.5
+Canada,2012,42320.64
+China,2012,6591.66
+France,2012,36161.29
+Germany,2012,40829.03
+India,2012,1333.1
+Italy,2012,31292.13
+Japan,2012,33518.44
+"Korea, Rep.",2012,26680.28
+Russian Federation,2012,9464.01
+United Kingdom,2012,42802.02
+United States,2012,54080.23
+Brazil,2013,9366.74
+Canada,2013,42851.17
+China,2013,7056.42
+France,2013,36256.09
+Germany,2013,40875.03
+India,2013,1399.45
+Italy,2013,30369.13
+Japan,2013,34239.89
+"Korea, Rep.",2013,27399.62
+Russian Federation,2013,9601.54
+United Kingdom,2013,43281.58
+United States,2013,54844.24
+Brazil,2014,9338.34
+Canada,2014,43643.24
+China,2014,7532.79
+France,2014,36444.39
+Germany,2014,41588.08
+India,2014,1484.32
+Italy,2014,30091.35
+Japan,2014,34386.91
+"Korea, Rep.",2014,28100.01
+Russian Federation,2014,9493.81
+United Kingdom,2014,44336.54
+United States,2014,55817.56
+Brazil,2015,8936.2
+Canada,2015,43594.19
+China,2015,8016.45
+France,2015,36702.43
+Germany,2015,41911.01
+India,2015,1584.0
+Italy,2015,30387.13
+Japan,2015,34960.64
+"Korea, Rep.",2015,28737.44
+Russian Federation,2015,9277.71
+United Kingdom,2015,44964.39
+United States,2015,57040.21
+Brazil,2016,8577.84
+Canada,2016,43551.34
+China,2016,8516.53
+France,2016,36920.53
+Germany,2016,42528.06
+India,2016,1694.47
+Italy,2016,30815.09
+Japan,2016,35242.2
+"Korea, Rep.",2016,29467.12
+Russian Federation,2016,9269.32
+United Kingdom,2016,45482.47
+United States,2016,57658.67
+Brazil,2017,8628.25
+Canada,2017,44339.39
+China,2017,9053.23
+France,2017,37580.6
+Germany,2017,43520.19
+India,2017,1788.7
+Italy,2017,31356.22
+Japan,2017,35861.97
+"Korea, Rep.",2017,30312.89
+Russian Federation,2017,9418.91
+United Kingdom,2017,46374.58
+United States,2017,58703.14
+Brazil,2018,8722.34
+Canada,2018,44907.34
+China,2018,9619.21
+France,2018,38062.44
+Germany,2018,43874.01
+India,2018,1883.36
+Italy,2018,31675.58
+Japan,2018,36138.53
+"Korea, Rep.",2018,31059.27
+Russian Federation,2018,9674.79
+United Kingdom,2018,46742.15
+United States,2018,60127.21
+Brazil,2019,8771.44
+Canada,2019,45100.29
+China,2019,10155.51
+France,2019,38705.21
+Germany,2019,44207.63
+India,2019,1936.03
+Italy,2019,32180.43
+Japan,2019,36043.78
+"Korea, Rep.",2019,31645.95
+Russian Federation,2019,9882.02
+United Kingdom,2019,47234.25
+United States,2019,61400.55
+Brazil,2020,8435.01
+Canada,2020,42366.13
+China,2020,10358.17
+France,2020,35709.2
+Germany,2020,42362.65
+India,2020,1806.5
+Italy,2020,29469.8
+Japan,2020,34650.8
+"Korea, Rep.",2020,31378.16
+Russian Federation,2020,9632.33
+United Kingdom,2020,42215.88
+United States,2020,59493.15
+Brazil,2021,8799.23
+Canada,2021,44359.62
+China,2021,11223.26
+France,2021,38030.86
+Germany,2021,43898.77
+India,2021,1965.31
+Italy,2021,32267.71
+Japan,2021,35701.45
+"Korea, Rep.",2021,32771.07
+Russian Federation,2021,10206.95
+United Kingdom,2021,45873.87
+United States,2021,62996.29
+Brazil,2022,9032.08
+Canada,2022,45227.14
+China,2022,11555.93
+France,2022,38881.22
+Germany,2022,44180.43
+India,2022,2086.08
+Italy,2022,33840.34
+Japan,2022,36202.64
+"Korea, Rep.",2022,33690.38
+Russian Federation,2022,10030.04
+United Kingdom,2022,47551.23
+United States,2022,64342.12
+Brazil,2023,9258.05
+Canada,2023,44468.75
+China,2023,12175.2
+France,2023,39117.48
+Germany,2023,44336.78
+India,2023,2236.31
+Italy,2023,34088.09
+Japan,2023,36990.33
+"Korea, Rep.",2023,34121.02
+Russian Federation,2023,10420.57
+United Kingdom,2023,47322.67
+United States,2023,65875.18
